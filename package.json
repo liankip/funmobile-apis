@@ -1,0 +1,26 @@
+{
+  "name": "cloud-int-pro",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "otp-generator": "^2.0.1",
+    "redis": "^3.1.2",
+    "sequelize": "^6.6.5",
+    "tedious": "^9.2.2",
+    "uuid": "^8.3.2"
+  }
+}

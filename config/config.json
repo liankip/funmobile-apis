@@ -1,0 +1,26 @@
+{
+	"development": {
+		"username": "sa",
+		"password": "PiknikMDN1090*",
+		"database": "23fsdja*a/2la/a8202",
+		"host": "202.162.195.243",
+		"port": 5252,
+		"dialect": "mssql"
+	},
+	"test": {
+		"username": "root",
+		"password": null,
+		"database": "database_test",
+		"host": "127.0.0.1",
+		"dialect": "mssql"
+	},
+	"production": {
+		"username": "sa",
+		"password": "PiknikMDN1090*",
+		"database": "23fsdja*a/2la/a8202",
+		"host": "202.162.195.243",
+		"port": 5252,
+		"dialect": "mssql",
+		"logging": false
+	}
+}
